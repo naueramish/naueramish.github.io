@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://naueramish.github.io/sitemap
+Sitemap: https://naueramish.github.io/app/sitemap
+Sitemap: https://naueramish.github.io/assets/sitemap
+Sitemap: https://naueramish.github.io/css/sitemap
+Sitemap: https://naueramish.github.io/includes/sitemap
+Sitemap: https://naueramish.github.io/item/sitemap
+Sitemap: https://naueramish.github.io/src/sitemap
